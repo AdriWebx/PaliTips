@@ -1,6 +1,6 @@
 # Lesson 7
 
-# **Paragraphs**
+# Paragraphs
 
 ---
 
