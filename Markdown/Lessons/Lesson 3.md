@@ -103,3 +103,4 @@ Well, do I have [the website for you][another fun place]!
 You now know how to make links in Markdown!
 
 [On to the next lesson!](Lesson%204.md)
+
