@@ -6,19 +6,19 @@ If you want to learn Markdown, you can learn it with me! Just read and practice 
 
 ---
 
-[Lesson 1](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%201%2026aa6057fdcd45698aa8535f1e99c67a.md)
+[Lesson 1](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%201.md)
 
-[Lesson 2](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%202%2084b507f5ea34415a96dfc0d2b2627b7f.md)
+[Lesson 2](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%202.md)
 
-[Lesson 3](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%203%202fd59fffe9724f4882278fd85d022f68.md)
+[Lesson 3](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%203.md)
 
-[Lesson 4](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%204%20f69dee1cee62438aa7fbf1528b1ad795.md)
+[Lesson 4](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%204.md)
 
-[Lesson 5](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%205%20a09266e3ae294e55b6f8200c547b78f2.md)
+[Lesson 5](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%205.md)
 
-[Lesson 6](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%206%208c648b26e7e546beb61f351c0ae9a47f.md)
+[Lesson 6](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%206.md)
 
-[Lesson 7](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/Lesson%207%2061634206ea5746e792b22a2a98ac7e99.md)
+[Lesson 7](https://github.com/PaliProx/PaliTips/blob/main/Markdown/Lessons/Lesson%207.md)
 
 ---
 
