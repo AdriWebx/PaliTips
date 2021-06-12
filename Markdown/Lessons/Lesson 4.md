@@ -59,3 +59,4 @@ In the box below, we've started placing some reference images; you'll need to co
 Ta da! You've learned all there is to adding images in Markdown!
 
 [On to the next lesson!](Lesson%205.md)
+
