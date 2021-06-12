@@ -231,3 +231,4 @@ In the box below, convert the bullet points into their own paragraphs.
 You now know how to make lists in Markdown!
 
 [On to the next lesson!](Lesson%207.md)
+
