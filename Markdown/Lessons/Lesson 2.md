@@ -74,3 +74,4 @@ Here's some words about the book *One Hundred Years...*.
 And that's all there is to making headers in Markdown.
 
 [On to the next lesson!](Lesson%203.md)
+
