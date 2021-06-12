@@ -84,3 +84,4 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 Now you know how to make things bold and italic in Markdown!
 
 [On to the next lesson!](Lesson%202.md)
+
