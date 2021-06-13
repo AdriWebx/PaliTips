@@ -22,8 +22,8 @@ If you want to learn Markdown, you can learn it with me! Just read and practice 
 
 ---
 
-[PaliTips](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/PaliTips%202a50cba8416247fb8dd162be8b9fc059.md)
+[PaliTips](https://github.com/PaliProx/PaliTips/blob/main/Markdown/PaliTips.md)
 
 ---
 
-[References](Markdown%20c03ae9144dae4f8b8d0c59d112a9f0be/References%20ec3bb10e0f714ef48d51e4d903482eb5.md)
+[References](https://github.com/PaliProx/PaliTips/blob/main/Markdown/References.md)
